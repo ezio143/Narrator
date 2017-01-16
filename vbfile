@@ -1,8 +1,9 @@
 //type the file as show below in a text doucment
 
 *****
+//to create the input box which takes two parameters 1.box name and 2.window header
  message = InputBox("A Best Text to Audio converter" + vbcrlf+"From - www.allusefulinfo.com","BEST Text to Audio converter")
- Set sapi = CreateObject("sapi.spvoice")
+Set sapi = CreateObject("sapi.spvoice")
  sapi.Speak message
  ******
  
