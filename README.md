@@ -1,3 +1,3 @@
 # Narrator
-narratio
-this is code will be mainly used for narrating the english text documents such as stories and reports .
+Narratio ,
+this code will be used for narrating the english text documents such as stories and reports .
